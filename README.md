@@ -45,3 +45,12 @@ With using this model, I won the top 10% of the ranking at kaggle competetion.
 <img width="231" alt="2020-10-26 12 13 51" src="https://user-images.githubusercontent.com/5339011/98860102-2a809780-2431-11eb-8384-34a27ce48ebf.png">
 
 ## Conclusion
+This is the result of the regression. The data of the graph is from the valid set of the regression. 
+The blue line means the prediction and the red dots are the real data.
+
+![predict](https://user-images.githubusercontent.com/5339011/98957414-2c009d00-24cf-11eb-8a6b-f917b193da0f.png)
+
+We could predict almost of the price of the houses.
+And the point above the blue line represents the price of the house is rather expensive comparing with the normal price.
+Also, the point below the blue line represents the price of the house is rather reasonable comparing with the normal price.
+There are some reasons why those prices are so. We should investigate them when we buy the house.
