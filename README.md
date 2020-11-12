@@ -1,4 +1,4 @@
-# Housing
+# How do we find a reasonable house? or luxury house?
 This is the House price estimation project from kaggle contest.
 
 <img src="https://user-images.githubusercontent.com/5339011/98837097-84249a00-2410-11eb-897f-f7851628cc1e.jpg" width="360">
@@ -52,5 +52,7 @@ The blue line means the prediction and the red dots are the real data.
 
 We could predict almost of the price of the houses.
 And the point above the blue line represents the price of the house is rather expensive comparing with the normal price.
-Also, the point below the blue line represents the price of the house is rather reasonable comparing with the normal price.
+The house probably is a luxury house with other feature than we use for regression.
+Also, the point below the blue line represents the price of the house is rather reasonable.
 There are some reasons why those prices are so. We should investigate them when we buy the house.
+We can also determine the price of the house with using this model when we sell a house.
