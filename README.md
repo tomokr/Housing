@@ -30,6 +30,7 @@ The features we have are below:
 The last one `SalePrice` is what we going to estimate. Other than the target, we have 80 features.
 
 ## EDA
+The `SalePrice` is distributed as the graph below.
 
 ## Modeling
 This time, we use all the features except the categorical feature that has less than 10 kinds.
