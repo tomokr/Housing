@@ -39,10 +39,19 @@ The `SalePrice` is distributed as the graph below.
 
 Its mean is 180921. The max is 755000 and the minimum is 34900.
 
+### Numerical Features
+There are many numerical features and they are distribute like the scatter plot below.
+
+![numerical](https://user-images.githubusercontent.com/5339011/99020172-ede59680-252b-11eb-8683-da96d61629a3.png)
+
 The correlation between `SalePrice` and the numerical features are shown in the heatmap.
 ![corr](https://user-images.githubusercontent.com/5339011/99019855-4e280880-252b-11eb-9536-9bff520116eb.png)
 
 `OverAllQual` and `GrLivArea` are correlated with `SalePrice` the best.
+
+### Categorical features
+Also, there are many categorical features. They are look like below.
+![categorical](https://user-images.githubusercontent.com/5339011/99020171-ede59680-252b-11eb-9b3e-d07021c310fc.png)
 
 
 
