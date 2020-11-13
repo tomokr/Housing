@@ -30,7 +30,7 @@ The features we have are below:
 The last one `SalePrice` is what we going to estimate. Other than the target, we have 80 features.
 
 ## EDA
-I'm going to explore the training data, which is the 70% of the whole prepared test data set.
+I'm going to explore the training data, which is the 80% of the whole prepared test data set.
 For EDA, we dropped the columns contains `NaN`.
 
 The `SalePrice` is distributed as the graph below.
