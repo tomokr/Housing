@@ -66,7 +66,8 @@ Then I took the final model for `Gradient Boosting`.
 
 With using this model, I won the top 10% of the ranking at kaggle competetion.
 
-<img width="231" alt="2020-10-26 12 13 51" src="https://user-images.githubusercontent.com/5339011/98860102-2a809780-2431-11eb-8384-34a27ce48ebf.png">
+<img width="214" alt="kaggle 2020-11-12 22 07 37" src="https://user-images.githubusercontent.com/5339011/99023877-829fc280-2533-11eb-99cb-d07b0b37c475.png">
+
 
 ## Conclusion
 This is the result of the regression. The data of the graph is from the valid set of the regression. 
