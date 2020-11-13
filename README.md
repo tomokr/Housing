@@ -39,6 +39,13 @@ The `SalePrice` is distributed as the graph below.
 
 Its mean is 180921. The max is 755000 and the minimum is 34900.
 
+The correlation between `SalePrice` and the numerical features are shown in the heatmap.
+![corr](https://user-images.githubusercontent.com/5339011/99019855-4e280880-252b-11eb-9536-9bff520116eb.png)
+
+`OverAllQual` and `GrLivArea` are correlated with `SalePrice` the best.
+
+
+
 ## Modeling
 This time, we use all the features except the categorical feature that has less than 10 kinds.
 I did imputation with the mean for the numerical features and most frequent category for the categorical features.
