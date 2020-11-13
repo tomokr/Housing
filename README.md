@@ -64,10 +64,10 @@ One is `Random Forest` and the other is `Gradient Boosting`. The parameters for 
 The mean absolute error for these are `19383` for `Random Forest` and `16199` for `Gradient Boosting`.
 Then I took the final model for `Gradient Boosting`.
 
-With using this model, I won the top 10% of the ranking at kaggle competetion.
+With using this model, I won the top 10% of the ranking at kaggle competetion. (as of 11/12/20)
 
 <img width="214" alt="kaggle 2020-11-12 22 07 37" src="https://user-images.githubusercontent.com/5339011/99023877-829fc280-2533-11eb-99cb-d07b0b37c475.png">
-
+https://www.kaggle.com/tomoshimo
 
 ## Conclusion
 This is the result of the regression. The data of the graph is from the valid set of the regression. 
