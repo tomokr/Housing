@@ -64,6 +64,11 @@ One is `Random Forest` and the other is `Gradient Boosting`. The parameters for 
 The mean absolute error for these are `19383` for `Random Forest` and `16199` for `Gradient Boosting`.
 Then I took the final model for `Gradient Boosting`.
 
+This table shows which feature is the most important to the regression.
+<img width="223" alt="features 2020-11-12 22 17 03" src="https://user-images.githubusercontent.com/5339011/99024558-d959cc00-2534-11eb-9af8-601aa2d4313d.png">
+The top two features are `OverallQual` and `GrLivArea`: this is also shown in the correlation table above.
+From the 3rd and below, we can see many categorical features. Though the weights of them are small.
+
 With using this model, I won the top 10% of the ranking at kaggle competetion. (as of 11/12/20)
 
 <img width="214" alt="kaggle 2020-11-12 22 07 37" src="https://user-images.githubusercontent.com/5339011/99023877-829fc280-2533-11eb-99cb-d07b0b37c475.png">
