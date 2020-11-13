@@ -32,7 +32,9 @@ The last one `SalePrice` is what we going to estimate. Other than the target, we
 ## EDA
 I'm going to explore the training data, which is the 70% of the whole prepared test data set.
 The `SalePrice` is distributed as the graph below.
-![saleprice](https://user-images.githubusercontent.com/5339011/99000476-59693d00-2507-11eb-93a2-0b05cebf0b82.png)
+
+![saleprice](https://user-images.githubusercontent.com/5339011/99019561-909d1580-252a-11eb-9a6e-846bf06a148c.png)
+
 Its mean is 180921. The max is 755000 and the minimum is 34900.
 
 ## Modeling
